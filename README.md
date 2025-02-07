@@ -1,7 +1,5 @@
 ## Hi there 👋
-My name is Jack Halpern
-- I am a senior at [Elon University](https://www.elon.edu/)
-- I am studying **Business Analytics** & **Entrepreneurship**!
+My name is Jack Halpern, I am a senior at [Elon University](https://www.elon.edu/) studying **Business Analytics** & **Entrepreneurship**!
 
 <!--
 **Jhalpern6/Jhalpern6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
